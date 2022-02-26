@@ -14,3 +14,6 @@ Deploymeny can be
 ## How To Contribute
 
 Simple web project
+
+###Copyright
+Git.Trainig.
