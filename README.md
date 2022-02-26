@@ -13,7 +13,7 @@ Deploymeny can be
 
 ## How To Contribute
 
-Simple web project
+Simple web project. Please fork this repository
 
 ###Copyright
 Git.Trainig.
