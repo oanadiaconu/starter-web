@@ -18,4 +18,4 @@ Deploymeny can be
 Simple web project. Please fork this repository
 
 ###Copyright
-Git.Trainig.
+Git.Trainig. All rights reserved.
