@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+     Oana Diaconu   odiaconu@deloittec.com
+ 
 # THANKS
 
     <name>
