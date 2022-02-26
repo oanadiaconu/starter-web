@@ -8,7 +8,7 @@ Text blablablajkjdk
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. blablabla
 
 ##Deployment
 Deploymeny can be 
